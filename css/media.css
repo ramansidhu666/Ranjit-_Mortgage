@@ -1,0 +1,426 @@
+
+
+@media (max-width: 1360px) {
+.bs-slider > .carousel-inner > .item > img{
+height: auto!important;
+width:100%;
+
+
+}
+
+.bs-slider
+{    overflow: hidden;
+    position: relative;
+    background: #000000;
+    overflow: hidden;
+	height: auto;
+    margin-top: 39px;
+    border: 7px solid #fff;
+}
+.detail_box h2 {
+    font-size: 36px;
+    color: #fff;
+    width: 100%;
+    float: left;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+.detail_box h3 {
+    font-size: 19px;
+    color: #fff;
+    width: 100%;
+    float: left;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 8px;
+    margin-bottom: 13px;
+}
+.detail_box p {
+    font-size: 11px;
+    color: #fff;
+    width: 100%;
+    float: left;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+.client_detail img {
+	
+	width:72%;
+	
+}
+.services_box h3 {
+    float: left;
+    width: 100%;
+    color: #910029;
+    font-size: 13px;
+    font-weight: 600;
+    background: #fff;
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 12px;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+}
+.navbar-default .navbar-nav>li>a{
+    margin-right: 21px;
+
+
+}
+
+@media (max-width: 768px) {
+	.links {
+    float: left;
+	width:100%;
+    margin-top: 22px;
+	}
+	.navbar-default{
+		margin-top:5px;
+	}
+
+.logo{
+	
+	    float: left;
+    padding-top: 0px;
+    margin-top: -10px;
+    width: 84%;
+
+}
+.apply {
+    margin-top: 10px;
+    float: left !important;
+    margin-bottom: 5px;
+}
+.client_detail img {
+	
+	width:50%;
+	
+}
+.detail_box h2 {
+    font-size: 30px;
+    color: #fff;
+    width: 100%;
+    float: left;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+.detail_box h3 {
+    font-size: 17px;
+    color: #fff;
+    width: 100%;
+    float: left;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 8px;
+    margin-bottom: 13px;
+}
+.detail_box p {
+    font-size: 10px;
+    color: #fff;
+    width: 100%;
+    float: left;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+.detail_box {
+    background: #910029;
+    padding: 2px 0;
+    width: 100%;
+    float: left;
+    border: 3px solid #fff;
+}
+.ic {
+    float: left;
+    margin-top: 4px;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 7px;
+}
+.bs-slider > .carousel-inner > .item > img{
+height: 171px!important;
+
+
+}
+
+.social_btn {
+    margin-top: 13px;
+    float: left;
+    width: 100%;
+}
+.conatact_setion {
+    float: left;
+    width: 100%;
+    margin-top: 12px;
+}
+.icon2 {
+    background: #fff;
+    padding: 11px 11px;
+    border-radius: 50px;
+    box-shadow: 0 0 10px #cccccc;
+}
+.address li {
+    font-size: 13px;
+    font-family: 'Poppins', sans-serif;
+}
+.address .fa {
+    font-size: 21px;
+    margin: 5px;
+    color: #910029;
+    margin-top: 16px;
+    margin-right: 15px;
+}
+.address .fa {
+    font-size: 16px;
+    margin: 5px;
+    color: #910029;
+    margin-top: 16px;
+    margin-right: 15px;
+}
+.about-section_2 {
+    width: 100%;
+    float: left;
+    margin-top: 12px;
+}
+.abt_text2 h3 {
+    font-size: 23px;
+    font-weight: bold;
+    color: #910029;
+    margin-bottom: 2px;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+}
+.bs-slider
+{    overflow: hidden;
+    position: relative;
+    background: #000000;
+    overflow: hidden;
+	height: 171px !important;
+    margin-top: 39px;
+    border: 7px solid #fff;
+}
+.second_sec {
+    background: #f5f5f5;
+    width: 100%;
+    float: left;
+padding:12px  0 !important;
+    margin-top: 18px;
+	    margin-bottom: 15px;
+}
+
+.rate_text {
+    float: left;
+    width: 100%;
+    margin-top: 22px;
+}
+.table {
+    margin-top: 40px;
+}
+.rate_text h2 {
+    float: left;
+    width: 100%;
+    color: #222;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+}
+.hovereffect {
+
+    width: 100%;
+    height: 100%;
+    float: left;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    cursor: default;
+    margin-top: 14px;
+
+}
+.abt_servc_sec {
+    float: left;
+    width: 100%;
+    margin-top: 0px;
+}
+footer li {
+
+    font-size: 16px;
+    color: #fff;
+    list-style: none;
+    padding: 0px;
+    width: 100%;
+    line-height: 26px;
+    margin-top: 13px;
+    font-weight: 300;
+    float: left;
+
+}
+.client_detail {
+    text-align: center;
+    margin-top: 0px;
+}
+.services_box h3 {
+    float: left;
+    width: 100%;
+    color: #910029;
+    font-size: 15px;
+    font-weight: 600;
+    background: #fff;
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 12px;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+}
+footer h4 {
+    font-size: 20px;
+    color: #fff;
+    margin-top: 16px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'poppinsregular';
+    float: left;
+}
+.romana_contact_form2 .romana_submit_btn input{
+	
+	background: #910029;
+line-height: 30px;
+margin-bottom: 50px;
+color: #fff;
+width: 34%;
+}
+.romana_contact_right{
+	
+	margin-bottom: 17px;
+	
+}
+.about_bg {
+    font-size: 35px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    padding: 46px 0px;
+    margin-top: 12px;
+}
+.about_bg {
+    background-image: url(../images/mein_bg.jpg);
+    width: 100%;
+    float: left;
+    height: 123px;
+}
+.cntct_text h2 {
+    font-size: 26px;
+    color: #fff;
+    float: left;
+    width: 100%;
+    margin-bottom: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+}
+.cntct_text h3 {
+    font-size: 15px;
+    color: #fff;
+    float: left;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+}
+.contact_now {
+    background: #910029;
+    padding: 9px 0;
+    width: 100%;
+    float: left;
+    margin-top: 20px;
+}
+.land_transfer iframe {
+	
+	width: 100%;
+    height: 300px;
+	margin-top:0px;
+
+}
+	.mortgage_payment iframe{
+		
+		 height: 625px;
+		 width:100%;
+			margin-top:0px;
+
+	}
+
+	.sidebar .sidebar-widget {
+    margin-bottom: 0px;
+}
+.fctg_text h3 {
+    float: left;
+    width: 100%;
+    color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 0px;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 33px;
+}
+.fctg_text {
+    float: left;
+    width: 100%;
+    background: #000;
+    padding: 12px 0;
+    margin-top: 8px;
+    text-align: center;
+}
+.details1_text {
+    float: left;
+    width: 100%;
+    margin-top: 13px;
+    margin-bottom: 0px;
+}
+.details1_text1 h3 {
+
+    float: left;
+    width: 100%;
+    color: #910029;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 17px;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 29px;
+    margin-bottom: 9px;
+
+}
+}
+
+@media (max-width: 480px) {
+
+.links {
+    float: left;
+    width: 100%;
+    margin-top: 50px;
+}
+
+@media (max-width: 480px) {
+
+.links {
+    float: left;
+    width: 100%;
+    margin-top: 32px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
